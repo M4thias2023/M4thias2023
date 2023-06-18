@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mathías Trasmonte</h1>
 <h3 align="center">A frontend developer from Perú</h3>
-<img width="400" alt="Coding" align="right" src="[https://media.tenor.com/flflC6GFzO8AAAAC/sultan-alrefaei-programmer.gif](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)">
+<img width="400" alt="Coding" align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=m4thias2023&label=Profile%20views&color=0e75b6&style=flat" alt="m4thias2023" /> </p>
 
