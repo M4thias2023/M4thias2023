@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=m4thias2023&label=Profile%20views&color=0e75b6&style=flat" alt="m4thias2023" /> </p>
 
-- 🔭 I’m currently working on **My portfolio web**
+- 🔭 I’m currently working on **Design of an Art website called ArtWise and it is a personal project**
 
 - 🌱 I’m currently learning **JavaScript, React, Data Structures**
 
